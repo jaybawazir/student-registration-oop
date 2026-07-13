@@ -46,4 +46,4 @@ python oop_code.py
 
 ## Team
 
-J.B., R.E., L.A.
+Joud Bawazir, R.E., L.A.
